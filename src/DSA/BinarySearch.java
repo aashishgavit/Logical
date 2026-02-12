@@ -17,4 +17,6 @@ public class BinarySearch {
         int[] arr = {1, 3, 5, 7, 9};
         System.out.println("Index: " + binarySearch(arr, 5));
     }
+    
+    
 }
